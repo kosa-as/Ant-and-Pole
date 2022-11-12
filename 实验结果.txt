@@ -1,0 +1,95 @@
+蚂蚁的初始方向为：  R    R    R    R    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    R    R    R    L  结果如下：
+maxtime:54   mintime:28
+
+蚂蚁的初始方向为：  R    R    R    L    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    R    R    L    L  结果如下：
+maxtime:54   mintime:32
+
+蚂蚁的初始方向为：  R    R    L    R    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    R    L    R    L  结果如下：
+maxtime:54   mintime:22
+
+蚂蚁的初始方向为：  R    R    L    L    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    R    L    L    L  结果如下：
+maxtime:54   mintime:22
+
+蚂蚁的初始方向为：  R    L    R    R    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    L    R    R    L  结果如下：
+maxtime:54   mintime:16
+
+蚂蚁的初始方向为：  R    L    R    L    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    L    R    L    L  结果如下：
+maxtime:54   mintime:16
+
+蚂蚁的初始方向为：  R    L    L    R    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    L    L    R    L  结果如下：
+maxtime:54   mintime:16
+
+蚂蚁的初始方向为：  R    L    L    L    R  结果如下：
+maxtime:54   mintime:10
+
+蚂蚁的初始方向为：  R    L    L    L    L  结果如下：
+maxtime:54   mintime:16
+
+蚂蚁的初始方向为：  L    R    R    R    R  结果如下：
+maxtime:44   mintime:6
+
+蚂蚁的初始方向为：  L    R    R    R    L  结果如下：
+maxtime:50   mintime:6
+
+蚂蚁的初始方向为：  L    R    R    L    R  结果如下：
+maxtime:44   mintime:6
+
+蚂蚁的初始方向为：  L    R    R    L    L  结果如下：
+maxtime:50   mintime:6
+
+蚂蚁的初始方向为：  L    R    L    R    R  结果如下：
+maxtime:44   mintime:6
+
+蚂蚁的初始方向为：  L    R    L    R    L  结果如下：
+maxtime:50   mintime:6
+
+蚂蚁的初始方向为：  L    R    L    L    R  结果如下：
+maxtime:44   mintime:6
+
+蚂蚁的初始方向为：  L    R    L    L    L  结果如下：
+maxtime:50   mintime:6
+
+蚂蚁的初始方向为：  L    L    R    R    R  结果如下：
+maxtime:38   mintime:6
+
+蚂蚁的初始方向为：  L    L    R    R    L  结果如下：
+maxtime:50   mintime:6
+
+蚂蚁的初始方向为：  L    L    R    L    R  结果如下：
+maxtime:38   mintime:6
+
+蚂蚁的初始方向为：  L    L    R    L    L  结果如下：
+maxtime:50   mintime:6
+
+蚂蚁的初始方向为：  L    L    L    R    R  结果如下：
+maxtime:28   mintime:6
+
+蚂蚁的初始方向为：  L    L    L    R    L  结果如下：
+maxtime:50   mintime:6
+
+蚂蚁的初始方向为：  L    L    L    L    R  结果如下：
+maxtime:32   mintime:6
+
+蚂蚁的初始方向为：  L    L    L    L    L  结果如下：
+maxtime:50   mintime:6
